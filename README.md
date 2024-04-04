@@ -1,12 +1,11 @@
-# analisi-immobiliare-texas
-Analisi esplorativa del mercato immobiliare del Texas in R.
+# Analisi esplorativa del mercato immobiliare del Texas
 
 ## Contenuto della repository
 * `realestate_texas.csv`: il dataset
 * `realestate_texas_analysis.r`: il file sorgente R
 * `report_statistica_descrittiva.pdf`: report con lo svolgimento della consegna del progetto
 
-# Descrizione del progetto
+## Descrizione del progetto
 Il dataset contiene 240 osservazioni di 8 variabili, che portano informazioni riguardo le vendite mensili di immobili nelle città di Beaumont, Bryan-College Station, Tyler and Wichita Falls, dal 2010 al 2014. In dettaglio, le variabili sono:
 * `city`: città
 * `year`: anno di riferimento
